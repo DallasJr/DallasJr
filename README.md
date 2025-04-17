@@ -14,13 +14,6 @@ I'm a passionate developer and computer science student, specializing in full st
 
 ## 🌐 Projects
 
-### Minecraft Server
-- **Developer & Founder** : I built and managed a fully custom Minecraft server that reached over 100 concurrent players.
-- **Minecraft Plugins** : I've also published several Minecraft plugins, with multiple successful sales.
-![Online](https://i.ibb.co/N6Lpm5sF/image.png)
-![Chat](https://i.imgur.com/6LXl276.png)
-![Code](https://i.imgur.com/aYGwQ5S.png)
-
 ### DocAutomation
 A tool designed to streamline repetitive document generation in business and administrative processes using reusable templates.
 ![DocAutomation](https://i.imgur.com/4kr5byr.png)
@@ -30,6 +23,13 @@ RollinSpot is a forum built for everyone who lives and breathes motorcycles. The
 ![RSMain](https://i.imgur.com/K4fMMhr.png)
 ![RSCategory](https://i.imgur.com/m8ud4qi.png)
 ![RSPost](https://i.imgur.com/bD51cbG.png)
+
+### Minecraft Server
+- **Developer & Founder** : I built and managed a fully custom Minecraft server that reached over 100 concurrent players.
+- **Minecraft Plugins** : I've also published several Minecraft plugins, with multiple successful sales.
+![Online](https://i.ibb.co/N6Lpm5sF/image.png)
+![Chat](https://i.imgur.com/6LXl276.png)
+![Code](https://i.imgur.com/aYGwQ5S.png)
 
 ### More to come !
 
