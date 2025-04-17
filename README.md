@@ -18,7 +18,7 @@ I'm a passionate developer and computer science student, specializing in full st
 - **Developer & Founder** : I built and managed a fully custom Minecraft server that reached over 100 concurrent players.
 - **Minecraft Plugins** : I've also published several Minecraft plugins, with multiple successful sales.
 ![Online](https://i.ibb.co/N6Lpm5sF/image.png)
-![Chat](https://i.ibb.co/ZC3WWc5/image.png)
+![Chat](https://i.imgur.com/6LXl276.png)
 
 ### DocAutomation
 A tool designed to streamline repetitive document generation in business and administrative processes using reusable templates.
