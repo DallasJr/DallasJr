@@ -22,7 +22,7 @@ I'm a passionate developer and computer science student, specializing in full st
 
 ### DocAutomation
 A tool designed to streamline repetitive document generation in business and administrative processes using reusable templates.
-![DocAutomation](https://i.ibb.co/XxZgkBbs/image.png)
+![DocAutomation](https://i.imgur.com/4kr5byr.png)
 
 ## 📫 Contact
 - **Discord** : odeur
