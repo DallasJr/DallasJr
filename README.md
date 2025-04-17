@@ -19,6 +19,7 @@ I'm a passionate developer and computer science student, specializing in full st
 - **Minecraft Plugins** : I've also published several Minecraft plugins, with multiple successful sales.
 ![Online](https://i.ibb.co/N6Lpm5sF/image.png)
 ![Chat](https://i.imgur.com/6LXl276.png)
+![Code](https://i.imgur.com/aYGwQ5S.png)
 
 ### DocAutomation
 A tool designed to streamline repetitive document generation in business and administrative processes using reusable templates.
