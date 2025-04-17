@@ -25,6 +25,12 @@ I'm a passionate developer and computer science student, specializing in full st
 A tool designed to streamline repetitive document generation in business and administrative processes using reusable templates.
 ![DocAutomation](https://i.imgur.com/4kr5byr.png)
 
+### Forum RollinSpot
+RollinSpot is a forum built for everyone who lives and breathes motorcycles. The goal was to build a welcoming, passionate community where people share knowledge, support each other, and ride together.
+![RSMain](https://i.imgur.com/K4fMMhr.png)
+![RSCategory](https://i.imgur.com/m8ud4qi.png)
+![RSPost](https://i.imgur.com/bD51cbG.png)
+
 ## 📫 Contact
 - **Discord** : odeur
 
