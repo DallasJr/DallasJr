@@ -12,6 +12,7 @@ I'm a passionate developer and computer science student, specializing in full st
 ![SpigotMC](https://img.shields.io/badge/-SpigotMC-F76902?style=flat-square&logo=spigotmc&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## 🌐 Projects
 
