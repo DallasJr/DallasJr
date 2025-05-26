@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 I'm a passionate developer and computer science student, specializing in full stack web development and software engineering.
 
-- **Portfolio**: Discover my projects and more on my personal website. [https://dall.dev](https://dall.dev)
+- **Portfolio**: Discover my projects and more on my personal website. [www.dall.dev](https://dall.dev)
 
 ## 🔧 Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
