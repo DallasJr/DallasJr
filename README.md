@@ -16,25 +16,6 @@ I'm a passionate developer and computer science student, specializing in full st
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## 🌐 Projects
-
-### DocAutomation
-A tool designed to streamline repetitive document generation in business and administrative processes using reusable templates.
-![DocAutomation](https://i.imgur.com/4kr5byr.png)
-
-### Forum RollinSpot
-RollinSpot is a forum built for everyone who lives and breathes motorcycles. The goal was to build a welcoming, passionate community where people share knowledge, support each other, and ride together.
-![RSMain](https://i.imgur.com/K4fMMhr.png)
-![RSCategory](https://i.imgur.com/m8ud4qi.png)
-![RSPost](https://i.imgur.com/bD51cbG.png)
-
-### Minecraft Server
-- **Developer & Founder** : I built and managed a fully custom Minecraft server that reached over 100 concurrent players.
-- **Minecraft Plugins** : I've also published several Minecraft plugins, with multiple successful sales.
-![Online](https://i.ibb.co/N6Lpm5sF/image.png)
-![Chat](https://i.imgur.com/6LXl276.png)
-![Code](https://i.imgur.com/aYGwQ5S.png)
-
 ### More to come !
 
 ## 📫 Contact
